@@ -1,4 +1,3 @@
-#yvela ricxvi Enterit shegvyavs
 .data
 	space: .asciiz " "
    	enter: .asciiz "\n"

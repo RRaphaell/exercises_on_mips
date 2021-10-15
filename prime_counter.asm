@@ -1,4 +1,3 @@
-# ricxvebi sheviyvanot Enterit 
 .data
 space: .asciiz " "
 enter: .asciiz "\n"
